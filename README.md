@@ -1,3 +1,12 @@
+## 📓 Main Notebook
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/hamid-shams/Multi-Modal-Machine-Learning-for-Early-Trust-Prediction-in-Human-AI-Interaction-by-Biosignals-Code-/blob/main/From_feature_extraction_to_Multi_modal_Applied_Ergo.ipynb
+)
+
+> Click the button above to open the notebook in Google Colab.
+
+
 # Multi-Modal Machine Learning for Early Trust Prediction in Human-AI Interaction by Biosignals
 
 This repository contains the Python implementation used for the paper **"Multi-Modal Machine Learning for Early Trust Prediction in Human-AI Interaction Using Face Image and GSR Biosignals".  
